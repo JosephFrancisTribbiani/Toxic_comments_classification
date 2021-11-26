@@ -1,5 +1,7 @@
 # Toxic_comments_classification
 
+<a href="https://www.kaggle.com/c/toxic-comments-classification-apdl-2021/leaderboard">Link</a> to kaggle competition.
+
 ## RNN
 
 **Accuracy (train / val)**
