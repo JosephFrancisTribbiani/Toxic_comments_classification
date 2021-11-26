@@ -1,4 +1,4 @@
-# Toxic_comments_classification
+# Toxic comments classification
 
 <a href="https://www.kaggle.com/c/toxic-comments-classification-apdl-2021/leaderboard">Link</a> to kaggle competition.
 
